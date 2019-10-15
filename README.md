@@ -57,7 +57,7 @@ composer require "SalesAgility/pimap"
 ```
 
 ### Getting Help
-All the documentation is situated in the docs directory. The documentation in this project is written in mark down and generated using [Daux.io](https://daux.io/).
+All of the documentation is situated in the [docs](https://github.com/daniel-samson/Pimap/tree/master/docs/en) directory. I recommend that you look at the [Getting Started](https://github.com/daniel-samson/Pimap/blob/master/docs/en/01_Getting_Started.md) page. The documentation in this project is written in mark down and generated using [Daux.io](https://daux.io/).
 
 #### Generate Documentation
 To build the documentation
