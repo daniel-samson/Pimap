@@ -30,7 +30,11 @@ Once we have established a connection with the IMAP server, we need to send the 
 $user = 'username@emailservice.com';
 $password = 'secret';
 
-$loginCommand = $manager->command()->login()->user($user)->password($pass)->build();
+$loginCommand = $manager->command()
+                        ->login()
+                        ->user($user)
+                        ->password($pass)
+                        ->build();
 $response = $manager->run($loginCommand);
 ```
 
