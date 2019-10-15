@@ -29,7 +29,7 @@ and provides full control over the entire process.
 
 
 ### Dependencies
-Dependencies are managed by [composer](https://getcomposer.org/). Please see the composer.json file for a complete list of dependencies.
+Dependencies are managed by [composer](https://getcomposer.org/). Please see the [composer.json](https://github.com/daniel-samson/Pimap/blob/master/composer.json) file for a complete list of dependencies.
 
 ### Contributing to the Pimap project
 Please read and sign the following [contributor agreement][cont_agrmt]
