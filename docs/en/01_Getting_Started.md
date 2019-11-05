@@ -33,7 +33,7 @@ $password = 'secret';
 $loginCommand = $manager->command()
                         ->login()
                         ->user($user)
-                        ->password($pass)
+                        ->password($password)
                         ->build();
 $response = $manager->run($loginCommand);
 ```
